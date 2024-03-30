@@ -4,7 +4,7 @@
 
 1. Criar um repositorio local e adiciona-lo ao nosso GitHub - remoto;
 
-2. Cllonar um repositorio remoto para o nosso computador local;
+2. Clonar um repositorio remoto para o nosso computador local;
 
 3. Fazer Aleterações >> Adicionar | Commmitar | Enviar arquivos;
 
